@@ -18,8 +18,8 @@ const popularDishes = [
     {
         id: 3,
         image: PopularSushiRolls ,
-        name: "Onigiri",
-        description: "Sushi Rolls",
+        name: "Sushi Rolls",
+        description: "Japanese Dish",
         price: "$19.99"
     },
 ]

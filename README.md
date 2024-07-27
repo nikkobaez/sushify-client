@@ -1,2 +1,1 @@
-Sushify - Frontend Web Application: A simple landing page I built to further develop my
-UI/UX design and Frontend Developer skills. The technologies I used to build this application are React, CSS, and Framer Motion. Link to website: 
+Sushify - Frontend Web Application: Frontend web-based landing page that focuses on user experience creating a fully cohesive design through features such as a dark and light theme, animations, a modern color palette, and typographics. The technologies I used to build this are React, CSS, and Framer Motion. Link to website: https://shiny-torrone-7dbeb6.netlify.app/

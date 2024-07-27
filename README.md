@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Sushify - Frontend Web Application: Frontend web-based landing page that focuses on user experience creating a fully cohesive design through features such as a dark and light theme, animations, a modern color palette, and typographics. The technologies I used to build this are React, CSS, and Framer Motion. Link to website: https://shiny-torrone-7dbeb6.netlify.app/
